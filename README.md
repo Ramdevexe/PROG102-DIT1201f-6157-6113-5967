@@ -107,4 +107,4 @@ This project is developed for academic purposes.
 
 
 Figma file
-https://www.figma.com/files/team/1649108407434324891/project/615233129?fuid=1649108405966879466
+https://www.figma.com/make/u6lPdoVVj3S8Pb6GfatOGj/Community-Pantry-Connector-App?t=Hw4Fo67CTehg90tt-1
